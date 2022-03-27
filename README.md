@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Pyhon
 - 💞️ I’m looking to collaborate on ...
-- 📫 Telegram @lchansky
+- 📫 Telegram t.me/lchansky
 
 <!---
 lchansky/lchansky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
