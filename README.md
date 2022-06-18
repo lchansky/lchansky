@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lchansky
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Pyhon
-- 💞️ I’m looking to collaborate on ...
 - 📫 Telegram t.me/lchansky
 
 <!---
